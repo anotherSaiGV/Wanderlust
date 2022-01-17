@@ -1,0 +1,297 @@
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\utilities\connections.js:60:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to Number failed for value "NaN" (type number) at path "contactNo" for model "User"
+    at model.Query.exec (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4592:15)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\userregister.js:7:64
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User Already Exists! Please login to continue
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userregister.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to Number failed for value "NaN" (type number) at path "contactNo" for model "User"
+    at model.Query.exec (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4592:15)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\userregister.js:7:64
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to Number failed for value "NaN" (type number) at path "contactNo" for model "User"
+    at model.Query.exec (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4592:15)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\userregister.js:7:64
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to Number failed for value "NaN" (type number) at path "contactNo" for model "User"
+    at model.Query.exec (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4592:15)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\userregister.js:7:64
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to Number failed for value "NaN" (type number) at path "contactNo" for model "User"
+    at model.Query.exec (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4592:15)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\userregister.js:7:64
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to Number failed for value "NaN" (type number) at path "contactNo" for model "User"
+    at model.Query.exec (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4592:15)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\userregister.js:7:64
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Contact Number not of valid type
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\routes\userRouter.js:30:19
+    at Layer.handle [as handle_request] (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\utilities\RequestLogger.js:8:5)
+CastError: Cast to Number failed for value "NaN" (type number) at path "contactNo" for model "User"
+    at model.Query.exec (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\query.js:4592:15)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\userregister.js:7:64
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\getBooking.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\getBooking.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\getBooking.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:9:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:9:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:9:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:9:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:10:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:66:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:11:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:11:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:11:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\getBooking.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:11:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: Cannot access 'bookingForm' before initialization
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\routes\userRouter.js:36:38
+    at Layer.handle [as handle_request] (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:67:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:11:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:22:60
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:22:60
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:23:60
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:23:60
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:24:65
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:54:51
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:65:44
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:65:44
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:65:44
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'availability' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:64:44
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: model.updateOneOperation is not a function
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:88:78
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\model\getBooking.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User Already Exists! Please login to continue
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userregister.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User Already Exists! Please login to continue
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userregister.js:10:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: checkUser is not defined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:9:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\confirmBooking.js:71:52
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\service\userslogin.js:21:35
+Error: could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:93:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:83:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:83:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+MongooseError: Operation `Destination.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:83:18
+MongooseError: Operation `Destination.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:83:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+MongooseError: Operation `Destination.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+MongooseError: Operation `Destination.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+MongooseError: Operation `Destination.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+MongooseError: Operation `Destination.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+MongooseError: Operation `Hotdeals.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+MongooseError: Operation `User.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:83:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+MongooseError: Operation `Hotdeals.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:83:18
+MongooseError: Operation `Destination.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\model\getBooking.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\model\getBooking.js:8:33
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\model\getBooking.js:8:33
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\service\userslogin.js:21:35
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\service\userslogin.js:21:35
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\service\userslogin.js:21:35
+Error: Incorrect password
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\service\userslogin.js:21:35
+Error: Could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Projects\Wanderlust_Travel_App\Wanderlust_WS\src\utilities\connections.js:83:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

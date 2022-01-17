@@ -1,0 +1,15 @@
+Error: could not connect to Database
+    at C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\src\utilities\connections.js:93:18
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+MongooseError: Operation `Hotdeals.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+MongooseError: Operation `User.deleteMany()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+MongooseError: Operation `User.deleteMany()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Helloworld\Studies and Projects\MERN\Coding\Project\Wanderlust_Code_To_Trainee\Wanderlust_React_WS\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
